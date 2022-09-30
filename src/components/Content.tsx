@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { MovieCard } from "./MovieCard";
 
 import { api } from '../services/api';
-import { GenreResponseProps } from "../App";
+import { GenreResponseProps } from "../components/SideBar";
 
 
 
